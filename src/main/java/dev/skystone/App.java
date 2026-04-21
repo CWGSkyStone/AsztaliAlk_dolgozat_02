@@ -1,3 +1,13 @@
+/*
+* File: App.java
+* Author: Szabó József
+* Copyright: 2026, Szabó József
+* Group: Szoft I/N
+* Date: 2026-04-21
+* Github: https://github.com/CWGSkyStone
+* Licenc: MIT
+*/
+
 package dev.skystone;
 
 import javafx.application.Application;
